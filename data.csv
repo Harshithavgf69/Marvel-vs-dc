@@ -1,0 +1,3 @@
+﻿entity,genre_1,genre_2,Sum of id,genre_3,Sum of imdb_gross,Sum of imdb_gross_millions,Sum of imdb_rating,Sum of imdb_votes,stars,title,Sum of tom_aud_score,Sum of tom_ratings,Sum of tomato_meter,Sum of tomato_review,Sum of total_ratings,Sum of year
+MARVEL,Action, Adventure,14, Fantasy,154700000,154.7,5.7,315297,"Tim Story,Ioan Gruffudd,Michael Chiklis,Chris Evans,Jessica Alba",Fantastic Four,45,250000,27,214,32.7,2005
+MARVEL,Action, Adventure,39, Sci-Fi,56120000,56.12,4.2,155942,"Josh Trank,Miles Teller,Kate Mara,Michael B. Jordan,Jamie Bell",Fantastic Four,18,100000,9,260,13.2,2015
